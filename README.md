@@ -1,8 +1,5 @@
 # weather-app-javascript
 A JavaScript weather app that fetches and displays current weather data for any city using the OpenWeatherMap API.
-# JavaScript Weather Application
-
-A simple web application built with HTML, CSS, and JavaScript that retrieves and displays weather information for a specified city using the OpenWeatherMap API.
 
 ## Features
 
